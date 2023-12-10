@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "id": "b7beed1a-7308-4006-9227-3b62dd54cd59",
+      "name": "Javascript",
+      "year": "1995",
+      "author": "Brendan Eich",
+      "slug": "javascript"
+    },
+    {
+      "id": "7df2628f-bf48-4687-8b1b-2eb0fbc9adb5",
+      "name": "Node js",
+      "year": "2009",
+      "author": "Rayan Dahl",
+      "slug": "node_js"
+    }
+  ]
+}
